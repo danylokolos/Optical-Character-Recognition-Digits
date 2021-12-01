@@ -1,0 +1,2 @@
+,hidden1_num_nodes,hidden1_activation,loss value,metrics=accuracy,Dropout
+0,512,relu,0.048166871070861816,0.9879999756813049,0.0
